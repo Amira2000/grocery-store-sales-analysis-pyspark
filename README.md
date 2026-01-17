@@ -97,4 +97,4 @@ This project is licensed under the MIT License.
 ## Author
 
 Amira Ouaked
-MSc Data Engineering & Data Science
+Data Engineer/Analyst
